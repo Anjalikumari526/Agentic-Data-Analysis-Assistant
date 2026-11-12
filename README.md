@@ -46,3 +46,6 @@ https://drive.google.com/file/d/1X0zXd5nxmXLaRJEFOIkLOPoR1puEVNOF/view?usp=shari
 
 ##2304009 ppt video
 https://drive.google.com/drive/folders/16TNYaGY00NbGvRFUa8nyMjgLTfXd7_yQ?usp=drive_link
+
+##2304018 ppt recording
+https://drive.google.com/file/d/1hGyhzLdE_vcOmaF-osBV-QLgjXHD6Tj5/view?usp=sharing
