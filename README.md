@@ -1,3 +1,6 @@
+#app link
+https://agentic-data-analysis-assistant-mnxbuapzz5mqf9gerbikxl.streamlit.app/
+
 # Agentic Data Analysis Assistant
 
 An AI-powered data analysis platform built using Python and Streamlit.
