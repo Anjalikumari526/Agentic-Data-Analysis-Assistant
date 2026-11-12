@@ -43,3 +43,6 @@ Start the application:
     └── outputs/
 ##project demo videos
 https://drive.google.com/file/d/1X0zXd5nxmXLaRJEFOIkLOPoR1puEVNOF/view?usp=sharing
+
+##2304009 ppt video
+https://drive.google.com/drive/folders/16TNYaGY00NbGvRFUa8nyMjgLTfXd7_yQ?usp=drive_link
